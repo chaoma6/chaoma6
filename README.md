@@ -1,8 +1,6 @@
 ## <p align="center">Hi 👋, I'm Max</p>
 
 ### <p align="center"> A passionate full stack developer based in Sydney </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chaoma6&show_icons=true&theme=gotham" alt="chaoma6" /></p>
  
 ### Languages and Tools
 <p align="center">
@@ -27,7 +25,7 @@
 
 <!--
 **chaoma6/chaoma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chaoma6&show_icons=true&theme=gotham" alt="chaoma6" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
