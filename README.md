@@ -8,12 +8,13 @@
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
         <img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
         <img src="./images/reactjs.svg" width="40" height="40" alt="react" />
-        
+        <img src="./images/nextjs.svg" width="40" height="40" alt="next" />
+	<img src="./images/redux.svg" width="40" height="40" alt="redux" />
 	<img src="./images/sass.svg" width="40" height="40" alt="sass" />
 	<img src="./images/bootstrap.svg" width="40" height="40" alt="bootstrap" />
 	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
 	<img src="./images/nuxtjs.svg" width="40" height="40" alt="nuxt" />
-	<img src="./images/electron.svg" width="40" height="40" alt="electron" />
+	<img src="./images/mongodb.svg" width="40" height="40" alt="mongodb" />
 	<img src="./images/mysql.svg" width="40" height="40" alt="mysql" />
 	<img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/jenkins.svg" width="40" height="40" alt="jenkins" />
