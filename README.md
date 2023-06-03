@@ -2,7 +2,7 @@
 ### <p align="center"> A passionate full stack developer based in Sydney </p>
  
 ### Languages and Tools
-<p align="center">
+<p align="left">
 	<img src="./images/html.svg" width="40" height="40" alt="html" />
 	<img src="./images/css.svg" width="40" height="40" alt="css" />
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
@@ -16,6 +16,7 @@
 	<img src="./images/nuxtjs.svg" width="40" height="40" alt="nuxt" />
 	<img src="./images/mongodb.svg" width="40" height="40" alt="mongodb" />
 	<img src="./images/mysql.svg" width="40" height="40" alt="mysql" />
+	<img src="./images/jest.svg" width="40" height="40" alt="jest" />
 	<img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/jenkins.svg" width="40" height="40" alt="jenkins" />
 	<img src="./images/postman.svg" width="40" height="40" alt="postman" />
