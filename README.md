@@ -3,26 +3,26 @@
  
 ### Languages and Tools
 <p align="left">
-	<img src="./images/html.svg" width="40" height="40" alt="html" />
-	<img src="./images/css.svg" width="40" height="40" alt="css" />
-	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
-        <img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
-        <img src="./images/reactjs.svg" width="40" height="40" alt="react" />
-        <img src="./images/nextjs.svg" width="40" height="40" alt="next" />
-	<img src="./images/redux.svg" width="40" height="40" alt="redux" />
-	<img src="./images/sass.svg" width="40" height="40" alt="sass" />
-	<img src="./images/bootstrap.svg" width="40" height="40" alt="bootstrap" />
-	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
-	<img src="./images/nuxtjs.svg" width="40" height="40" alt="nuxt" />
-	<img src="./images/mongodb.svg" width="40" height="40" alt="mongodb" />
-	<img src="./images/mysql.svg" width="40" height="40" alt="mysql" />
-	<img src="./images/jest.svg" width="40" height="40" alt="jest" />
-	<img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
-	<img src="./images/jenkins.svg" width="40" height="40" alt="jenkins" />
-	<img src="./images/postman.svg" width="40" height="40" alt="postman" />
-	<img src="./images/stack-overflow.svg" width="40" height="40" alt="stack-overflow" />
-	<img src="./images/github.svg" width="40" height="40" alt="github" />
-	<img src="./images/git.svg" width="40" height="40" alt="git" />
+	<img src="./images/html.svg" width="30" height="30" alt="html" />
+	<img src="./images/css.svg" width="30" height="30" alt="css" />
+	<img src="./images/javascript.svg" width="30" height="30" alt="javascript" />
+        <img src="./images/typescript.svg" width="30" height="30" alt="typescript" />
+        <img src="./images/reactjs.svg" width="30" height="30" alt="react" />
+        <img src="./images/nextjs.svg" width="30" height="30" alt="next" />
+	<img src="./images/redux.svg" width="30" height="30" alt="redux" />
+	<img src="./images/sass.svg" width="30" height="30" alt="sass" />
+	<img src="./images/bootstrap.svg" width="30" height="30" alt="bootstrap" />
+	<img src="./images/nodejs.svg" width="30" height="30" alt="node" />
+	<img src="./images/nuxtjs.svg" width="30" height="30" alt="nuxt" />
+	<img src="./images/mongodb.svg" width="30" height="30" alt="mongodb" />
+	<img src="./images/mysql.svg" width="30" height="30" alt="mysql" />
+	<img src="./images/jest.svg" width="30" height="30" alt="jest" />
+	<img src="./images/webpack.svg" width="30" height="30" alt="webpack" />
+	<img src="./images/jenkins.svg" width="30" height="30" alt="jenkins" />
+	<img src="./images/postman.svg" width="30" height="30" alt="postman" />
+	<img src="./images/stack-overflow.svg" width="30" height="40" alt="stack-overflow" />
+	<img src="./images/github.svg" width="30" height="30" alt="github" />
+	<img src="./images/git.svg" width="30" height="30" alt="git" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaoma6&" alt="chaoma6" /></p>
 
