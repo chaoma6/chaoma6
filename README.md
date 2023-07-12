@@ -1,7 +1,8 @@
-## <p align="center">Hi 👋, I'm Max</p>
-### <p align="center"> A passionate full stack developer based in Sydney </p>
- 
-### Languages and Tools
+## <p align="center">Hi 👋, I'm Max MA </p>
+#### <p align="left"> A passionate and experienced full-stack developer based in Sydney, Australia.</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaoma6&" alt="chaoma6" /></p>
+
+### Front-End
 <p align="left">
 	<img src="./images/html.svg" width="30" height="30" alt="html" />
 	<img src="./images/css.svg" width="30" height="30" alt="css" />
@@ -12,19 +13,28 @@
 	<img src="./images/redux.svg" width="30" height="30" alt="redux" />
 	<img src="./images/sass.svg" width="30" height="30" alt="sass" />
 	<img src="./images/bootstrap.svg" width="30" height="30" alt="bootstrap" />
+</p>
+
+### Back-End
+<p align="left">
 	<img src="./images/nodejs.svg" width="30" height="30" alt="node" />
 	<img src="./images/nuxtjs.svg" width="30" height="30" alt="nuxt" />
 	<img src="./images/mongodb.svg" width="30" height="30" alt="mongodb" />
 	<img src="./images/mysql.svg" width="30" height="30" alt="mysql" />
+</p>
+
+### DevOps And Tools
+<p align="left">
 	<img src="./images/jest.svg" width="30" height="30" alt="jest" />
 	<img src="./images/webpack.svg" width="30" height="30" alt="webpack" />
 	<img src="./images/jenkins.svg" width="30" height="30" alt="jenkins" />
 	<img src="./images/postman.svg" width="30" height="30" alt="postman" />
-	<img src="./images/stack-overflow.svg" width="30" height="40" alt="stack-overflow" />
+	<img src="./images/stack-overflow.svg" width="30" height="30" alt="stack-overflow" />
 	<img src="./images/github.svg" width="30" height="30" alt="github" />
 	<img src="./images/git.svg" width="30" height="30" alt="git" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaoma6&" alt="chaoma6" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaoma6&show_icons=true&locale=en&layout=compact" alt="chaoma6" /></p>
 
 <!--
 **chaoma6/chaoma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
